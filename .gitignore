@@ -1,0 +1,5 @@
+# Node Core Modules
+/node_modules
+# environment files
+.env
+.env.*
